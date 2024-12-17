@@ -4,7 +4,7 @@ Amphi is a great python low code ETL tool!
 I created a Docker image to use Amphi as a standalone container.
 Everything that may be needed (at least what I found) is already integrated.
 
-You can use the provided Dockerfile to compile it on your own.
+You can use the provided [Dockerfile](https://github.com/xpertmind/amphi-etl/blob/main/Dockerfile) to compile it on your own.
 
 Here how I do it:
 ```
