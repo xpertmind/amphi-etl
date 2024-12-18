@@ -1,4 +1,4 @@
-# amphi-etl
+# [amphi-etl](https://github.com/amphi-ai/amphi-etl)
 Amphi is a great python low code ETL tool!
 
 I created a Docker image to use Amphi as a standalone container.
